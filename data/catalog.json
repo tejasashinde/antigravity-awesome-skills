@@ -1,6 +1,6 @@
 {
   "generatedAt": "2026-02-08T00:00:00.000Z",
-  "total": 1239,
+  "total": 1240,
   "skills": [
     {
       "id": "00-andruia-consultant",
@@ -16763,6 +16763,31 @@
         "quality"
       ],
       "path": "skills/kaizen/SKILL.md"
+    },
+    {
+      "id": "keyword-extractor",
+      "name": "keyword-extractor",
+      "description": "Extracts up to 50 highly relevant SEO keywords from text. Use when user wants to generate or extract keywords for given text.",
+      "category": "business",
+      "tags": [
+        "keyword",
+        "extractor"
+      ],
+      "triggers": [
+        "keyword",
+        "extractor",
+        "extracts",
+        "up",
+        "50",
+        "highly",
+        "relevant",
+        "seo",
+        "keywords",
+        "text",
+        "user",
+        "wants"
+      ],
+      "path": "skills/keyword-extractor/SKILL.md"
     },
     {
       "id": "klaviyo-automation",

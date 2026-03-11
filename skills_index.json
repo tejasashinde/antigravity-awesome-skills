@@ -6790,6 +6790,16 @@
     "date_added": "2026-02-27"
   },
   {
+    "id": "keyword-extractor",
+    "path": "skills/keyword-extractor",
+    "category": "uncategorized",
+    "name": "keyword-extractor",
+    "description": "Extracts up to 50 highly relevant SEO keywords from text. Use when user wants to generate or extract keywords for given text.\n",
+    "risk": "safe",
+    "source": "original",
+    "date_added": "2026-03-11"
+  },
+  {
     "id": "klaviyo-automation",
     "path": "skills/klaviyo-automation",
     "category": "uncategorized",
